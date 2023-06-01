@@ -29,4 +29,11 @@ gradlew
 gradle/
 gradlew.bat
 .gradle/
+build/
 *.md
+
+#Idea
+.idea/
+
+#Specific system file
+.DS_Store
